@@ -1,0 +1,189 @@
+{
+  "createEmployee": {
+    "firstName": "swetha",
+    "lastName": "sri",
+    "age": 22,
+    "noOfChildrens": 1,
+    "spouse": true,
+    "address": {
+      "streetAddress": "501,kukatpally",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "postalCode": "500090"
+    },
+    "phoneNumbers": [
+      {
+        "type": "Mobile",
+        "number": "7981158123"
+      }
+    ],
+    "hobbies": [
+      "watching Tv",
+      "dancing"
+    ]
+  },
+  "updateEmployee": {
+    "firstName": "sai",
+    "lastName": "ambica",
+    "age": 23,
+    "noOfChildrens": 2,
+    "spouse": true,
+    "address": {
+      "streetAddress": "501/bachepalli",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "postalCode": "500090"
+    },
+    "phoneNumbers": [
+      {
+        "type": "mobile",
+        "number": "7981158585"
+      }
+    ],
+    "hobbies": [
+      "singing",
+      "dancing"
+    ]
+  },
+  "EmployeeWithfirstNameBlank": {
+    "lastName": "kiranmai",
+    "age": 22,
+    "noOfChildrens": 4,
+    "spouse": true,
+    "address": {
+      "streetAddress": "101/Nest villas road",
+      "city": "bachepalli",
+      "state": "Telangana",
+      "country": "India",
+      "postalCode": "500090"
+    },
+    "phoneNumbers": [
+      {
+        "type": "mobile",
+        "number": "7981158585"
+      }
+    ],
+    "hobbies": [
+      "singing",
+      "playing games"
+    ]
+  },
+  "EmployeeWithlastNameBlank": {
+    "firstName": "swetha",
+    "age": 20,
+    "noOfChildrens": 4,
+    "spouse": true,
+    "address": {
+      "streetAddress": "101/Nest villas road",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "postalCode": "500090"
+    },
+    "phoneNumbers": [
+      {
+        "type": "mobile",
+        "number": "7981158585"
+      }
+    ],
+    "hobbies": [
+      "singing",
+      "playing games"
+    ]
+  },
+  "EmployeewithAdressBlank": {
+    "firstName": "swetha",
+    "lastName": "Reddy",
+    "age": 23,
+    "noOfChildrens": 2,
+    "spouse": true,
+    "phoneNumbers": [
+      {
+        "type": "mobile",
+        "number": "7981158585"
+      }
+    ],
+    "hobbies": [
+      "singing",
+      "Reading books"
+    ]
+  },
+  "EmployeewithphoneNumberBlank": {
+    "firstName": "swetha",
+    "lastName": "Reddy",
+    "age": 50,
+    "noOfChildrens": 2,
+    "spouse": true,
+    "address": {
+      "streetAddress": "101/Nest villas road",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "postalCode": "500090"
+    },
+    "hobbies": [
+      "singing",
+      "dancing"
+    ]
+  },
+  "UpdateEmployeefirstNameBlank": {
+    "lastName": "sri",
+    "age": 20,
+    "noOfChildrens": 2,
+    "spouse": true,
+    "address": {
+      "streetAddress": "101/kukatpally",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "postalCode": "532256"
+    },
+    "phoneNumbers": [
+      {
+        "type": "mobile",
+        "number": "78556432234"
+      }
+    ],
+    "hobbies": [
+      "reading",
+      "yoga"
+    ]
+  },
+  "UpdateEmployeeAddressBlank": {
+    "firstName": "urmila",
+    "lastName": "urmi",
+    "age": 25,
+    "noOfChildrens": 2,
+    "spouse": true,
+    "phoneNumbers": [
+      {
+        "type": "mobile",
+        "number": "9657834523"
+      }
+    ],
+    "hobbies": [
+      "singing",
+      "travelling"
+    ]
+  },
+  "UpdateEmployeephoneNumberBlank": {
+    "firstName": "swetha",
+    "lastName": "Reddy",
+    "age": 20,
+    "noOfChildrens": 2,
+    "spouse": true,
+    "address": {
+      "streetAddress": "101/nest villas road",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India",
+      "postalCode": "500090"
+    },
+    "hobbies": [
+      "singing",
+      "playing games"
+    ]
+  }
+}
